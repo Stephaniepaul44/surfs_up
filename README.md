@@ -14,9 +14,8 @@ The purpose of the analysis is to look at temperatures in Hawaii in June and Dec
 - The min temperature difference from June to December is 8 degrees. The min for June is 64 and the min for December is 56.
 
 **Images below to show the differences between months**
-
-![June Temps](https://github.com/Stephaniepaul44/surfs_up.git/June_Temperatures.png)
-![Dec Temps](https://github.com/Stephaniepaul44/surfs_up.git/December_Temps.png)
+![June Temps](https://github.com/Stephaniepaul44/surfs_up/June_Temperatures.png)
+![Dec Temps](https://github.com/Stephaniepaul44/surfs_up/December_Temps.png)
 
 
 ##Summary: 
